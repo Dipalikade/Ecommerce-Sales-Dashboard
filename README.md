@@ -23,4 +23,6 @@ Power BI for data visualization and dashboard design
 Data Cleaning & Transformation using Power Query
 KPIs: Sales, Profit, Quantity, Customer Contribution, Category & Sub-category Profitability
 
-📷 Dashboard Snapshot
+📷 Dashboard Snapshot:
+![Snapshot of Dashboard](https://github.com/Dipalikade/Ecommerce-Sales-Dashboard/blob/main/Snapshot_of_Dashboard.png?raw=true)
+
